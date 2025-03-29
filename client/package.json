@@ -13,8 +13,10 @@
     "@tailwindcss/vite": "^4.0.17",
     "better-react-mathjax": "^2.1.0",
     "install": "^0.13.0",
+    "mathquill": "^0.10.1-a",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "react-mathquill": "^1.0.3",
     "tailwindcss": "^4.0.17"
   },
   "devDependencies": {
